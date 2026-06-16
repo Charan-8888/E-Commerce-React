@@ -1,0 +1,1 @@
+export const DEMO_USER = { name: "Charan", email: "charan@example.com", password: "1234" };
